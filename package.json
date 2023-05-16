@@ -1,0 +1,30 @@
+{
+  "name": "funnybot",
+  "version": "1.0.0",
+  "description": "fg chat bot",
+  "main": "main.js",
+  "bin": "main.js",
+  "author": "",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.26",
+    "@folder/xdg": "^3.1.2",
+    "@rob9315/mcproxy": "^0.3",
+    "boxen": "^5.0.1",
+    "config": "^3.3.8",
+    "discord.js": "^12.5.3",
+    "everpolate": "0.0.3",
+    "luxon": "^2.0.1",
+    "minecraft-data": "^3",
+    "minecraft-protocol": "^1.35.1",
+    "mineflayer-antiafk": "^1.1.1",
+    "mineflayer-tps": "^1.0.1",
+    "node-json-minify": "^3.0.0",
+    "open": "^8.0.7",
+    "particles.js": "^2.0.0",
+    "pngjs-image": "^0.11.7",
+    "rss-parser": "^3.12.0"
+  },
+  "devDependencies": {
+    "nexe": "^4.0.0-beta.18"
+  }
+}
